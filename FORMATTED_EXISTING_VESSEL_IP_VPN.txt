@@ -1,0 +1,32 @@
+
+1       VGBF01                                  10.10.10.1
+2       VGBF02Anjo                              10.10.10.5
+3       VGBF03Penn                              10.10.10.9
+4       VGBF04Mark                              10.10.10.13
+5       VGBF05Madie                             10.10.10.17
+6       VGBF06Helga                             10.10.10.21
+7       VGBF07Kelly                             10.10.10.25
+
+
+1       VRH01HendrikI                           10.20.3.1
+2       VRH02RoelVH                             10.20.3.5
+3       VRH03PaulS                              10.20.3.9
+4       VRH04                                   10.20.3.13
+5       VRH05                                   10.20.3.17
+6       VRH06                                   10.20.3.21
+
+
+1       VClient01(Name)                         172.16.0.1
+2       VClient02(Name)                         172.16.0.5
+3       VClient03(Name)                         172.16.0.9
+4       VClient04(Name)                         172.16.0.13
+5       VClient05(Name)                         172.16.0.17
+6       VClient06(Name)                         172.16.0.21
+
+1       Vessel01(Name)                         10.20.0.1
+2       Vessel02(Name)                         10.20.0.5
+3       Vessel03(Name)                         10.20.0.9
+4       Vessel04(Name)                         10.20.0.13
+5       Vessel05(Name)                         10.20.0.17
+6       Vessel06(Name)                         10.20.0.21
+

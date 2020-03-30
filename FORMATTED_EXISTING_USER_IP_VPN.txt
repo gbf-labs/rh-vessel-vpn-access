@@ -1,0 +1,25 @@
+
+1 GBF01        10.8.1.1
+2 GBF02Anjo    10.8.1.5
+3 GBF03Penn    10.8.1.9
+4 GBF04Mark    10.8.1.13
+5 GBF05Madie   10.8.1.17
+6 GBF06Helga   10.8.1.21
+7 GBF03Penn02  10.8.1.25
+8 GBF07Kelly   10.8.1.29
+
+
+1 RH01HendrikI  10.8.3.1
+2 RH02RoelH     10.8.3.5
+3 RH03CEOPaulS  10.8.3.9
+4 RH04          10.8.3.13
+5 RH05          10.8.3.17
+6 RH06          10.8.3.21
+
+
+1 Client01(Name) 172.16.0.1
+2 Client02(Name) 172.16.0.5
+3 Client03(Name) 172.16.0.9
+4 Client04(Name) 172.16.0.13
+5 Client05(Name) 172.16.0.17
+6 Client06(Name) 172.16.0.21
